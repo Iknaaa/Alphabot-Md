@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕" //namabot kalian
+global.botname = "IKNAAROBOT" //namabot kalian
 global.ownername= "Iknaa store" //nama kalian
 global.myweb ="https://chat.whatsapp.com/IzGz5frP1nHBkYZOpW8I37" //bebas asal jan hapus
 global.youtube = "-" //bebas asal jan hapus
@@ -43,7 +43,7 @@ global.donasi = "./image/donasii.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'M̷O̷N̷S̷T̷E̷R̷' //sticker wm ubah
-global.author = '𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕' //sticker wm ganti nama kalian
+global.author = 'IKNAAROBOT' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
